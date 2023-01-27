@@ -93,7 +93,7 @@ function NavBar() {
           <li className='w-[160px] h-[50px] flex justify-between items-center ml-[-120px] hover:ml-[-0px] duration-300 bg-[#5585b5]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='/'
+              href='https://www.linkedin.com/in/oabeatriz/'
             >
               Linkedin <FaLinkedin size={30} />
             </a>
@@ -101,7 +101,7 @@ function NavBar() {
           <li className='w-[160px] h-[50px] flex justify-between items-center ml-[-120px] hover:ml-[-0px] duration-300 bg-[#333333]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='/'
+              href='https://github.com/OaieAndreaBeatriz'
             >
               Github <FaGithub size={30} />
             </a>
@@ -111,7 +111,8 @@ function NavBar() {
               className='flex justify-between items-center w-full text-gray-300'
               href='/'
             >
-              Email <HiOutlineMail size={30} />
+              Email
+              <HiOutlineMail size={30} />
             </a>
           </li>
           <li className='w-[160px] h-[50px] flex justify-between items-center ml-[-120px] hover:ml-[-0px] duration-300 bg-[#565f69]'>

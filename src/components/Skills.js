@@ -19,8 +19,8 @@ function Skills() {
           <p className='py-4'>These are the technologies I've worked with</p>
         </div>
 
-        <div className='w-full grid grid-cols-2 sm:grid-cols-3 gap-2 text-center py-8'>
-          <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+        <div className='w-full grid grid-cols-2 sm:grid-cols-3 gap-5 text-center py-8'>
+          <div className=' shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
             <img
               className='w-20 mx-auto'
               src={JavaScript}
