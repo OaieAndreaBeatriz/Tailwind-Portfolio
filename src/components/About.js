@@ -16,7 +16,12 @@ function About() {
               <p>Hello! I'm Andrea, nice to meet you. Please take a look around.</p>
           </div>
           <div>
-              <p>I use my passion and skills to design and    implement features for web platforms."Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."Lorem ipsum dolor sit amet, consectetur adipiscing elit. ipsum dolor sit amet, consectetur adipiscing elit.
+              <p>
+              I have successfully finished a JavaScript and React course. I use
+              my passion and skills to design and implement features for web
+              platforms. Lorem ipsum dolor sit amet, consectetur adipiscing
+              elit. Ipsum dolor sit amet, consectetur adipiscing elit. Ipsum
+              dolor sit amet, consectetur adipiscing elit.
               </p>
             </div>
         </div>
