@@ -4,6 +4,7 @@ import { HiOutlineMail } from 'react-icons/hi';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
 import Logo from '../assets/logo.png';
 import { Link } from 'react-scroll';
+import CV from '../assets/CV-Oaie Andrea-Beatriz (3).pdf';
 
 function NavBar() {
   const [nav, setNav] = useState(false);
@@ -103,24 +104,26 @@ function NavBar() {
               className='flex justify-between items-center w-full text-gray-300'
               href='https://github.com/OaieAndreaBeatriz'
             >
-              Github <FaGithub size={30} />
+              Github<FaGithub size={30} />
             </a>
           </li>
           <li className='w-[160px] h-[50px] flex justify-between items-center ml-[-120px] hover:ml-[-0px] duration-300 bg-[#735b58]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='/'
+              href='mailto:oaie.andrea.beatriz@gmail.com'
             >
-              Email
+              Send Email!
               <HiOutlineMail size={30} />
             </a>
           </li>
           <li className='w-[160px] h-[50px] flex justify-between items-center ml-[-120px] hover:ml-[-0px] duration-300 bg-[#565f69]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='/'
+              href={CV}
+              download
+              target='_blank'
             >
-              Resume <BsFillPersonLinesFill size={30} />
+              Download CV <BsFillPersonLinesFill size={30} />
             </a>
           </li>
         </ul>
