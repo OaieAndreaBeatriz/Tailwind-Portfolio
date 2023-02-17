@@ -17,11 +17,9 @@ function About() {
           </div>
           <div>
               <p>
-              I have successfully finished a JavaScript and React course. I use
-              my passion and skills to design and implement features for web
-              platforms. Lorem ipsum dolor sit amet, consectetur adipiscing
-              elit. Ipsum dolor sit amet, consectetur adipiscing elit. Ipsum
-              dolor sit amet, consectetur adipiscing elit.
+              Always searching for more passions to chase, I am an enthusiastic junior frontend developer
+              based in Romania. Spent the last several months working on my skills, looking to optimize not
+              just the project I am currently working on but the way I am thinking, designing requests and being creative. 
               </p>
             </div>
         </div>
