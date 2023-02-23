@@ -25,7 +25,7 @@ function Projects() {
           >
             {/*Hover Effects*/}
             <div className='opacity-0 group-hover:opacity-100'>
-              <span className='text-2xl font-bold text-white tracking-wider'>
+              <span className='text-center text-2xl font-bold text-white tracking-wider'>
                 Cat-Breeds App🐱
               </span>
               <div className='pt-8 text-center'>
@@ -49,7 +49,7 @@ function Projects() {
           >
             {/*Hover Effects*/}
             <div className='opacity-0 group-hover:opacity-100'>
-              <span className='text-2xl font-bold text-white tracking-wider'>
+              <span className='text-center text-2xl font-bold text-white tracking-wider'>
                 Gym App🏋🏻‍♀️
               </span>
               <div className='pt-8 text-center'>
@@ -73,7 +73,7 @@ function Projects() {
           >
             {/*Hover Effects*/}
             <div className='opacity-0 group-hover:opacity-100'>
-              <span className='text-2xl font-bold text-white tracking-wider'>
+              <span className='text-center text-2xl font-bold text-white tracking-wider'>
                 Movies App🎬
               </span>
               <div className='pt-8 text-center'>
@@ -97,7 +97,7 @@ function Projects() {
           >
             {/*Hover Effects*/}
             <div className='opacity-0 group-hover:opacity-100'>
-              <span className='text-2xl font-bold text-white tracking-wider'>
+              <span className='text-center text-2xl font-bold text-white tracking-wider'>
                 Meals App🌮
               </span>
               <div className='pt-8 text-center'>
