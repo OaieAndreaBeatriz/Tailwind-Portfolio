@@ -26,7 +26,7 @@ function Projects() {
             {/*Hover Effects*/}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Application
+                Cat-Breeds App🐱
               </span>
               <div className='pt-8 text-center'>
                 <a href='https://cat-breeds.pages.dev/'>
@@ -50,7 +50,7 @@ function Projects() {
             {/*Hover Effects*/}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Application
+                Gym App🏋🏻‍♀️
               </span>
               <div className='pt-8 text-center'>
                 <a href='https://gym-app-ell.pages.dev/'>
@@ -74,7 +74,7 @@ function Projects() {
             {/*Hover Effects*/}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Application
+                Moovies App🎬
               </span>
               <div className='pt-8 text-center'>
                 <a href='https://moovies-app.pages.dev/'>
@@ -98,7 +98,7 @@ function Projects() {
             {/*Hover Effects*/}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Application
+                Meals App🌮
               </span>
               <div className='pt-8 text-center'>
                 <a href='https://order-meals.pages.dev/'>
