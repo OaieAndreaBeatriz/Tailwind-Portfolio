@@ -1,9 +1,23 @@
-qergq3g
-24g24f
-w45g
-w
-rg
-245g
-23
-5g2
-45g
+import React from 'react';
+import NavBar from './components/NavBar';
+import Home from './components/Home';
+import About from './components/About';
+import Skills from './components/Skills';
+import Projects from './components/Projects';
+import Contact from './components/Contact';
+
+function App() {
+  return (
+    <div>
+      <NavBar />
+      <Home />
+      <About />
+      <Skills />
+      <Projects />
+      <Contact />
+    </div>
+  );
+}
+
+export default App;
+
